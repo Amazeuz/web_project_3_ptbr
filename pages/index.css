@@ -28,13 +28,15 @@
 @import url(../blocks/content/photo-grid/__item/photo-grid__item.css);
 
 @import url(../blocks/content/places/places.css);
+@import url(../blocks/content/places/place/place.css);
 @import url(../blocks/content/places/place/__image/place__image.css);
 @import url(../blocks/content/places/place/__paragraph/place__paragraph.css);
 @import url(../blocks/content/places/place/__title/place__title.css);
 @import url(../blocks/content/places/place/nft/nft.css);
 @import url(../blocks/content/places/place/nft/__paragraph/nft__paragraph.css);
+@import url(../blocks/content/places/place/website/website.css);
 @import url(../blocks/content/places/place/website/__artist/website__artist.css);
-@import url(../blocks/content/places/place/website/__url-heading/place__url-heading.css);
+@import url(../blocks/content/places/place/website/__url-heading/website__url-heading.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
