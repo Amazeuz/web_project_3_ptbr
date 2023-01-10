@@ -1,3 +1,7 @@
-.intro__text.css {
-
+.intro__text {
+  width: 56%;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  margin: 0;
 }
