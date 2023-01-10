@@ -1,3 +1,4 @@
 .lead__image {
-
+  width: 90%;
+  filter: grayscale(100%);
 }
