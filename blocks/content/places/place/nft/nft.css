@@ -4,6 +4,9 @@
   text-align: center;
   background: #0278FE;
   border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-right: 20%;
   /* margin-right é usado para evitar que em janelas comprimidas seja criado uma nova coluna para alocar o bloco 'nft' */
 }

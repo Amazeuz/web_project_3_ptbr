@@ -1,0 +1,8 @@
+.ticket__paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+}

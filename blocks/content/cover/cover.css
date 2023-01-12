@@ -1,3 +1,7 @@
 .cover {
-
+  width: 90%;
+  min-height: 740px;
+  display: flex;
+  justify-content: center;
+  vertical-align: center;
 }
