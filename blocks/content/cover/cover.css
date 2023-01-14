@@ -1,7 +1,14 @@
 .cover {
-  width: 90%;
+  width: 92.50%;
   min-height: 740px;
   display: flex;
   justify-content: center;
   vertical-align: center;
+}
+
+@media screen and (max-width: 414px) {
+  .cover {
+    min-height: unset;
+    align-items: center;
+  }
 }

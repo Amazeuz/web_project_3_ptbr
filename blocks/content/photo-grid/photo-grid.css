@@ -1,7 +1,14 @@
 .photo-grid {
-  width: 90%;
+  width: 92.50%;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   gap: 16px;
+}
+
+@media screen and (max-width: 414px) {
+  .photo-grid {
+    width: 90%;
+    row-gap: 12px;
+  }
 }

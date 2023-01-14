@@ -1,6 +1,12 @@
 .intro {
-  width: 80%;
+  width: 76.80%;
   display: flex;
   flex-direction: column;
 
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    width: 93.75%;
+  }
 }

@@ -7,6 +7,22 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  align-self:baseline;
   margin-right: 20%;
   /* margin-right é usado para evitar que em janelas comprimidas seja criado uma nova coluna para alocar o bloco 'nft' */
+  grid-area: nft;
+}
+
+@media screen and (max-width: 768px) {
+  .nft {
+    width: 90%;
+
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .nft {
+    width: 90%;
+    margin: auto;
+  }
 }

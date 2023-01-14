@@ -4,3 +4,12 @@
   line-height: 76px;
   margin: 0;
 }
+
+@media screen and (max-width: 414px) {
+  .visit__title {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
+

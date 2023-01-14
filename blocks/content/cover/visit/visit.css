@@ -9,3 +9,11 @@
   margin: auto;
   z-index: 1;
 }
+
+@media screen and (max-width: 414px) {
+  .visit {
+    width: unset;
+    height: unset;
+    row-gap: 16px;
+  }
+}

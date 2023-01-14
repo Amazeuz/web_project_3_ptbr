@@ -4,3 +4,10 @@
   padding-top: 92px;
   margin: 0;
 }
+
+@media screen and (max-width: 414px) {
+  .footer {
+    padding-top: 64px;
+    margin-top: 55px;
+  }
+}

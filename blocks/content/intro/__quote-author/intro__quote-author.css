@@ -6,3 +6,15 @@
   text-align: right;
   margin: 0 0 32px;
 }
+
+@media screen and (max-width: 768px) {
+  .intro__quote-author {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 414px) {
+  .intro__quote {
+    margin-bottom: 18px;
+  }
+}

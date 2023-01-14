@@ -5,3 +5,9 @@
   align-items: center;
   row-gap: 92px;
 }
+
+@media screen and (max-width: 414px) {
+  .content {
+    row-gap: 44px;
+  }
+}

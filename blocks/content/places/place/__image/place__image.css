@@ -1,3 +1,17 @@
 .place__image {
-  width: 50%;
+  max-width: 460px;
+  background-size: contain;
+  grid-area: image;
+}
+
+ /* @media screen and (max-width: 768px) {
+  .place__image {
+    height: 40%;
+  }
+} */
+
+@media screen and (max-width: 414px) {
+  .place__image {
+    width: 100%;
+  }
 }
