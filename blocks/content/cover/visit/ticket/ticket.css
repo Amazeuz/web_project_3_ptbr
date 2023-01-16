@@ -2,10 +2,14 @@
   width: 36%;
   min-height: 48px;
   background: #0278FE;
-  border-radius: 4px;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 4px;
+}
+
+.ticket:hover {
+  background-color: #0063D2;
 }
 
 @media screen and (max-width: 414px) {

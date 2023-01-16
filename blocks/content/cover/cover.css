@@ -6,6 +6,11 @@
   vertical-align: center;
 }
 
+.cover:hover > .cover__overlay {
+  opacity: 0.3;
+  transition: opacity 0.5s ease;
+}
+
 @media screen and (max-width: 414px) {
   .cover {
     min-height: unset;
