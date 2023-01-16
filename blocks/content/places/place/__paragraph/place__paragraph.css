@@ -11,11 +11,11 @@
 
 .place__paragraph > p {
   margin: 0;
-
 }
 
 @media screen and (max-width: 768px) and (min-width: 415px) {
   .place__paragraph {
+    width: 100%;
     font-size: 16px;
     row-gap: 14px;
   }
@@ -25,6 +25,6 @@
   .place__paragraph {
     width: 90%;
     align-self: center;
-    row-gap: 7;
+    row-gap: 7px;
   }
 }
