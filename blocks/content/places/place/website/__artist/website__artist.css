@@ -4,9 +4,3 @@
   line-height: 22px;
   margin: 0;
 }
-
-@media screen and (max-width: 414px) {
-  .website__artist {
-    width: 90%;
-  }
-}

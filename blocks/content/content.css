@@ -6,6 +6,12 @@
   row-gap: 92px;
 }
 
+@media screen and (max-width: 768px) and (min-width: 415px) {
+  .content {
+    row-gap: 88px;
+  }
+}
+
 @media screen and (max-width: 414px) {
   .content {
     row-gap: 44px;
