@@ -6,4 +6,4 @@ A responsividade do projeto é focada para dispositivos com larguras de: 414px, 
 
 Nesse projeto foram utilizados HTML e CSS, com o CSS tendo foco em flexbox e grid, além de consultas de mídia para dar responsividade aos diferenças tamanhos de tela.
 
-Link do site para github pages: 
+Link do site para github pages: https://amazeuz.github.io/web_project_3_ptbr/
