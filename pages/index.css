@@ -5,43 +5,43 @@
 @import url(../blocks/content/content.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/content/cover/cover.css);
-@import url(../blocks/content/intro/intro.css);
-@import url(../blocks/content/lead/lead.css);
-@import url(../blocks/content/photo-grid/photo-grid.css);
-@import url(../blocks/content/places/places.css);
-@import url(../blocks/content/places/place/place.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/root/root.css);
 
-@import url(../blocks/content/cover/__overlay/cover__overlay.css);
-@import url(../blocks/content/cover/__background/cover__background.css);
-@import url(../blocks/content/cover/visit/visit.css);
-@import url(../blocks/content/cover/visit/__title/visit__title.css);
-@import url(../blocks/content/cover/visit/__subtitle/visit__subtitle.css);
-@import url(../blocks/content/cover/visit/ticket/ticket.css);
-@import url(../blocks/content/cover/visit/ticket//__paragraph/ticket__paragraph.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/visit/visit.css);
+@import url(../blocks/cover/visit/__title/visit__title.css);
+@import url(../blocks/cover/visit/__subtitle/visit__subtitle.css);
+@import url(../blocks/cover/visit/ticket/ticket.css);
+@import url(../blocks/cover/visit/ticket//__paragraph/ticket__paragraph.css);
 
-@import url(../blocks/content/intro/__text/intro__text.css);
-@import url(../blocks/content/intro/__title/intro__title.css);
-@import url(../blocks/content/intro/__quote/intro__quote.css);
-@import url(../blocks/content/intro/__quote-author/intro__quote-author.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__quote/intro__quote.css);
+@import url(../blocks/intro/__quote-author/intro__quote-author.css);
 
-@import url(../blocks/content/lead/__image/lead__image.css);
-@import url(../blocks/content/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/content/lead/__title/lead__title.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__title/lead__title.css);
 
-@import url(../blocks/content/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
-@import url(../blocks/content/places/place/__image/place__image.css);
-@import url(../blocks/content/places/place/__paragraph/place__paragraph.css);
-@import url(../blocks/content/places/place/__title/place__title.css);
-@import url(../blocks/content/places/place/nft/nft.css);
-@import url(../blocks/content/places/place/nft/__paragraph/nft__paragraph.css);
-@import url(../blocks/content/places/place/website/website.css);
-@import url(../blocks/content/places/place/website/__artist/website__artist.css);
-@import url(../blocks/content/places/place/website/__url-heading/website__url-heading.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/nft/nft.css);
+@import url(../blocks/place/nft/__paragraph/nft__paragraph.css);
+@import url(../blocks/place/website/website.css);
+@import url(../blocks/place/website/__artist/website__artist.css);
+@import url(../blocks/place/website/__url-heading/website__url-heading.css);
 
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@import url(../../fonts/InterWeb/inter.css);
+@import url(../fonts/InterWeb/inter.css);

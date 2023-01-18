@@ -10,14 +10,14 @@
   grid-row-gap: 48px;
 }
 
-@media screen and (max-width: 768px) and (min-width: 415px) {
+@media screen and (max-width: 768px) and (min-width: 650px) {
   .place {
     grid-column-gap: 28px;
     grid-row-gap: 46px;
   }
 }
 
-@media screen and (max-width: 414px) {
+@media screen and (max-width: 649px) {
   .place {
     grid-template-areas:
     "title"
